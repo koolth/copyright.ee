@@ -29,3 +29,11 @@ Set start year of copyright notice. Displays: **© 2013 - [current year]**
 Valid values: > 1000
 
 Note: If *'start_year'* is equal to or greater than the current year, then *'start_year'* is ignored.
+
+##Installing The Plugin
+1. Download the .zip file.
+2. Extract the `system\expressionengine\third_party\copyright` directory to your EE `system\expressionengine\third_party\` directory.
+3. Log into EE and navigate to '*Add-Ons->Plugins->Copyright' to ensure plugin has installed correctly and to view usage instructions.
+
+###Feedback
+Please contact us via our website at http://koolth.com.au - we'd love to hear from you!
